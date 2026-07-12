@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://developers.freelancer.com
 common:
+  - type: DomainSecurity
+    url: security/freelancer-domain-security.yml
   - type: Website
     url: https://developers.freelancer.com
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.freelancer.com/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

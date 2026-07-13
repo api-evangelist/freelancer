@@ -1,0 +1,14 @@
+{
+  "repo": "freelancer",
+  "feeds": [
+    {
+      "source": "https://www.freelancer.com/blog",
+      "feed_url": "https://www.freelancer.com/rss.xml",
+      "title": "",
+      "saved": 20,
+      "method": "discovered"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 25
+}

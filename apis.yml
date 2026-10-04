@@ -39,7 +39,6 @@ apis:
   - name: Freelancer
     description: "Hire freelancers to get work done"
     humanURL: https://developers.freelancer.com
-    baseURL: https://developers.freelancer.com
     tags:
       - Business
     properties:
